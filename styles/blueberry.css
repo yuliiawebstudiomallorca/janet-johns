@@ -1,0 +1,118 @@
+/*===========================
+  Theme: Blueberry
+============================ */
+
+/*________  Purple________  */
+a,h3,hr,
+.team span,
+.social-media i,
+.quote-test small,
+.pagination>li>a,
+.pagination>li>span,
+.carousel-control i:hover,
+.nav-pills .nav > li > a:visited,
+.social-media i:hover,
+.carousel-caption:before,
+.navbar-brand:hover,
+.navbar-brand:focus,
+.well h4:before,
+.icon i,
+.navbar-custom ul.nav li a:hover,
+.navbar-custom .nav > .active > a,
+.menu-top .menu__link:hover,
+.menu-top .menu__link:focus,
+.menu-top .menu__item--current .menu__link,
+footer a,h5 span,h1 small,h2 small,h3 small, h4 small,h5 small,h6 small
+{color:#752B3F;}
+
+.white_block,
+.gray_block,hr,
+.pager li > a:hover ,
+.pagination>li>a:hover,
+.pagination>li>span,
+.carousel-indicators li,
+.pager li > a, .pager li > span,
+.owl-theme .owl-dots .owl-dot span,
+#gallery .nav.nav-tabs > li > a:hover,
+.form-control:focus,
+.slider .btn
+{border-color:#752B3F;}
+
+h2,
+#newsletter,
+#call-to-action,
+footer,
+.team .teamcaption .icons i,
+.btn-primary:hover ,
+.btn-primary:focus,
+.pagination>li>a:hover,
+.pager li > a:hover,
+.pagination>li>span,
+.carousel-indicators .active,
+.carousel-indicators li:hover,
+.icon:hover,
+.owl-theme .owl-dots .owl-dot span:before,
+#gallery .nav.nav-tabs > li > a:hover,
+.input-group-addon,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.back-to-top i:hover,
+.navbar-toggle,
+.menu-item.featured,
+.menu-item.featured .menu-item-price,
+.bootstrap-datetimepicker-widget table td.day:hover,
+.bootstrap-datetimepicker-widget table td.hour:hover,
+.bootstrap-datetimepicker-widget table td.minute:hover,
+.bootstrap-datetimepicker-widget table td.second:hover,
+.bootstrap-datetimepicker-widget table td span:hover,
+.bootstrap-datetimepicker-widget table thead tr:first-child th:hover,
+.panel-heading a ,
+#stats i  
+{background-color:#752B3F;}
+
+#contact .form-control:focus
+{border-bottom:4px solid #752B3F;}
+
+.slide__overlay {background-color:rgba(117, 43, 63, 0.86);}
+
+/* max width 991px */
+@media (max-width: 991px) {.slide .slide__text{background-color:rgba(117, 43, 63, 0.86);}}
+	
+
+/*________ Gray ________ */
+
+.gallery-thumb:hover .overlay-mask,
+#gallery .nav.nav-tabs > li > a:focus,
+#gallery .nav.nav-tabs > li > .active,
+#offer,
+#stats,
+#preloader,
+#opening,
+.btn,
+.menu-top .menu__link::before,
+.slider-pagi__elem:before,
+.team .teamname,
+.navbar-toggle:focus,
+.navbar-toggle:hover,
+.bootstrap-datetimepicker-widget table td.active,
+.bootstrap-datetimepicker-widget table td.active:hover,
+.nav.nav-tabs > li.active > a, 
+.nav.nav-tabs > li.active > a:hover, 
+.nav.nav-tabs > li.active > a:focus,
+.menu-item-price
+{background-color:#989286;}
+
+a:hover,
+a:focus,
+.slider-pagi__elem,
+#contact .social-media a i:hover
+{color:#989286;}
+
+#gallery .nav.nav-tabs > li > a:focus,
+#gallery .nav.nav-tabs > li > .active,
+#gallery .nav.nav-tabs > li > a,
+#testimonials img,
+#stats i,
+#menu .tab-content
+{border-color:#989286;}
+

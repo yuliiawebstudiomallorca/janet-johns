@@ -1,0 +1,81 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+font-style: normal;
+
+}.flaticon-baker104:before {
+	content: "\e000";
+}
+.flaticon-baker115:before {
+	content: "\e001";
+}
+.flaticon-baker97:before {
+	content: "\e002";
+}
+.flaticon-bakery10:before {
+	content: "\e003";
+}
+.flaticon-breakfast35:before {
+	content: "\e004";
+}
+.flaticon-coffee10:before {
+	content: "\e005";
+}
+.flaticon-coffee20:before {
+	content: "\e006";
+}
+.flaticon-coffee21:before {
+	content: "\e007";
+}
+.flaticon-covered16:before {
+	content: "\e008";
+}
+.flaticon-cutlery32:before {
+	content: "\e009";
+}
+.flaticon-drink110:before {
+	content: "\e00a";
+}
+.flaticon-eggs13:before {
+	content: "\e00b";
+}
+.flaticon-fruit94:before {
+	content: "\e00c";
+}
+.flaticon-multiple25:before {
+	content: "\e00d";
+}
+.flaticon-restaurant1:before {
+	content: "\e00e";
+}
+.flaticon-restaurant33:before {
+	content: "\e00f";
+}
+.flaticon-snacks1:before {
+	content: "\e010";
+}
+.flaticon-spaghetti1:before {
+	content: "\e011";
+}
+.flaticon-sweet135:before {
+	content: "\e012";
+}
+.flaticon-te:before {
+	content: "\e013";
+}
+.flaticon-tea24:before {
+	content: "\e014";
+}
+.flaticon-toasted:before {
+	content: "\e015";
+}
