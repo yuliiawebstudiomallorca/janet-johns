@@ -55,16 +55,10 @@ p{
 
 
 /* Y */
-
-i {
-
-background-color: #FF8240 !important;
-
-}
-
 .btn-default a{
 	border: 3px solid red;
 }
+
 
 
 
@@ -1973,6 +1967,8 @@ ul {font-size: 16px;}
 .leaflet-pane > svg path.leaflet-interactive {
 	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
 	pointer-events: auto;
+	width: 149px !important;
+	height:auto !important;
 	}
 
 /* visual tweaks */
@@ -2660,6 +2656,16 @@ ul {font-size: 16px;}
 		font-size: 16px;
 	    line-height:18px;
 	}
+
+
+
+
+
+
+
+
+
+
 
 	/* Miscellaneous */
 
